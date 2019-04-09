@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { wordcomponent} from './word.component';
+import { wordcomponent} from './structure_munadi/word.component';
 @NgModule({
   declarations: [
     AppComponent,
