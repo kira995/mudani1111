@@ -47,3 +47,9 @@ li a { /* định nghĩa thẻ a nằm bên trong một thẻ li */
     color: #999;
     padding: 0px;
 }
+#nav-1 {
+    margin-left: 300px
+}
+#nav-7 button {
+    margin-right: 300px
+}
