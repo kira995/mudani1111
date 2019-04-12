@@ -1,0 +1,49 @@
+img, img a {
+    margin-left: 300px;
+}
+li { /* định nghĩ cho các dòng trong danh sách */
+    float: left; /* cho các dòng trôi nổi về góc bên trái như những cục shit trôi sông tấp vào bờ trái */
+}
+li a { /* định nghĩa thẻ a nằm bên trong một thẻ li */
+    display: block; /* bình thường thẻ a là thẻ inline, không phải block, giờ cho nó thành block */
+    color: white; /* màu chữ sẽ là màu trắng */
+    text-align: center; /* canh lề giữa cho chữ, tức thẻ a sẽ là khối chữ nhật, chữ nằm giữa, canh đều hai bên */
+    padding: 15px; /* vùng đệm thụt vào 16px rồi mới đến nội dung bên trong a */
+    text-decoration: none; /* không trang trí hoa hòe hoa sói, tức rà chuột, kích chuột,... chữ vẫn trắng mà không ra màu khác hay chớp nháy, gạch chân gì cả */
+}
+
+
+#manu {
+    background-color: #1D877E
+}
+#manu-1 {
+    width: auto;
+    height: 100px;
+}
+.phone-contact {
+    float: right;
+    margin-top: 0px;
+    padding-right: 15px;
+    border-right: 1px solid ;
+    margin-right: 260px;
+}
+
+.phone-contact img {
+    float: left;
+    margin-right: 12px;
+    margin-top: 3px;
+}
+
+.phone-contact .inner-info {
+    float: left;
+}
+
+.phone-contact .inner-info span {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.phone-contact .inner-info p {
+    color: #999;
+    padding: 0px;
+}
