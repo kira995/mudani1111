@@ -5,3 +5,12 @@
     height: 700px;
     margin-left: 350px
 }
+.carousel-control-next {
+    margin-right: 300px;
+}
+.carousel-control-prev {
+    margin-left: 300px;
+}
+.carousel-indicators {
+    width: 0%
+}
