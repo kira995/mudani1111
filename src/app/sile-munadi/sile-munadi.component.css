@@ -3,5 +3,16 @@
 }
 .slideimg {
     width: 1920px; 
-    height: 420px;
+    max-height: 100%
+} 
+.list-group  {
+    margin: 50px;
+    flex-direction: row;  
+    margin-left: 100px;
+}
+.list-group-box {
+    padding-left: 25px;
+    height: auto;
+    width: auto;
+    margin-top: 25px
 }

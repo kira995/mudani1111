@@ -190,7 +190,7 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/router@~7.2.0":
+"@angular/router@7.2.12":
   version "7.2.12"
   resolved "https://registry.yarnpkg.com/@angular/router/-/router-7.2.12.tgz#73d168534db8a749efcda1507bbf75721d018a3e"
   integrity sha512-n7EFKuOa6YDDvGZT/t7mXfQMuomkTVPJcWkpfPrViAKi4mcUnaU5IqYiBnv/WJfDDqocVD/Yf9YQD9zAajthEw==
@@ -1232,6 +1232,11 @@ builtins@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/builtins/-/builtins-1.0.3.tgz#cb94faeb61c8696451db36534e1422f94f0aee88"
   integrity sha1-y5T662HIaWRR2zZTThQi+U8K7og=
+
+bulma@^0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.4.tgz#7e74512e9118d9799021339e67e365ee0ac4f3f9"
+  integrity sha512-krG2rP6eAX1WE0sf6O0SC/FUVSOBX4m1PBC2+GKLpb2pX0qanaDqcv9U2nu75egFrsHkI0zdWYuk/oGwoszVWg==
 
 bytes@3.0.0:
   version "3.0.0"
